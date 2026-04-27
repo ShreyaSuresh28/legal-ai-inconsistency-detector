@@ -1,0 +1,7 @@
+pandas
+streamlit
+groq
+faiss-cpu
+numpy
+sentence-transformers
+pypdf
